@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212750291-2b7a0e1e-9b5e-4c30-9b8f-6cfa3b9f4b7c.gif)
+![DevOps Banner](sandbox:/mnt/data/a_2d_digital_illustration_features_a_custom_devops.png)
 
 <h1 align="center">Hi 👋, I'm Rajesh Chilukuri from India 🇮🇳</h1>
 
@@ -187,4 +187,4 @@ Application pods were stuck in **Pending state** in EKS.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Rajesh-210\&icon=0\&color=0)](https://visitcount.itsvg.in)
+[![](https)]()
