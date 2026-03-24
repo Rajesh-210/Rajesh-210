@@ -1,27 +1,190 @@
-# 💫 About Me:
-I am a DevOps Engineer specializing in building and optimizing cloud-native infrastructure. My expertise lies in designing scalable Kubernetes environments, automating CI/CD pipelines, and ensuring high availability, security, and performance across production systems.
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
+<h1 align="center">Hi 👋, I'm Rajesh Chilukuri from India 🇮🇳</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rajesh Chilukuri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajesh.chilukuri.549) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshchilukuri210@gmail.com) 
+<h3 align="center">
+DevOps Engineer | Kubernetes | CI/CD | GitOps | Cloud Automation
+</h3>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rajesh-210&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rajesh-210&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-210&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rajesh-210&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rajesh-210&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Rajesh-210&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajesh-210&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I am a **DevOps Engineer** specializing in **cloud-native infrastructure, Kubernetes, and CI/CD automation**.
+I have hands-on experience building **production-grade EKS clusters**, implementing **GitOps with ArgoCD**, and designing **highly available systems**.
+
+---
+
+# 🚀 Featured DevOps Projects (Interview Ready)
+
+## 🔹 1. Three-Tier Application on AWS EKS
+
+**Tech Stack:** AWS EKS, Docker, Kubernetes, Jenkins, Terraform, Nginx
+
+### 📌 What I Did
+
+* Designed and deployed **3-tier architecture (Frontend + Backend + DB)**
+* Built **CI/CD pipeline using Jenkins**
+* Provisioned infrastructure using **Terraform (IaC)**
+* Configured **Ingress + Load Balancer**
+
+### 📈 Impact
+
+* Reduced deployment time by **60%**
+* Improved system scalability and fault tolerance
+* Enabled zero-downtime deployments using rolling updates
+
+---
+
+## 🔹 2. GitOps Deployment using ArgoCD
+
+**Tech Stack:** Kubernetes, ArgoCD, GitHub, Helm
+
+### 📌 What I Did
+
+* Implemented **GitOps workflow using ArgoCD**
+* Used Git as **single source of truth**
+* Configured **auto-sync & self-healing**
+* Managed deployments using **Helm charts**
+
+### 📈 Impact
+
+* Eliminated manual deployments
+* Reduced configuration drift
+* Improved deployment reliability
+
+---
+
+## 🔹 3. Monitoring & Alerting System
+
+**Tech Stack:** Prometheus, Grafana, Kubernetes
+
+### 📌 What I Did
+
+* Installed monitoring stack using **Helm**
+* Created dashboards for **CPU, memory, pod metrics**
+* Configured **alerting rules**
+
+### 📈 Impact
+
+* Reduced incident detection time
+* Improved system observability
+
+---
+
+# 🏗️ DevOps Architecture
+
+```text
+Developer → GitHub → Jenkins (CI) → Docker → ECR → ArgoCD → EKS → Monitoring
+```
+
+---
+
+# ⚙️ ArgoCD GitOps (Real Example)
+
+## 📁 Repo Structure
+
+```bash
+k8s-manifests/
+ ├── frontend/
+ │    ├── deployment.yaml
+ │    ├── service.yaml
+ ├── backend/
+ │    ├── deployment.yaml
+ │    ├── service.yaml
+ └── argocd-app.yaml
+```
+
+---
+
+## 📄 ArgoCD Application YAML
+
+```yaml
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: three-tier-app
+  namespace: argocd
+spec:
+  project: default
+
+  source:
+    repoURL: https://github.com/Rajesh-210/k8s-manifests
+    targetRevision: HEAD
+    path: .
+
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: default
+
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
+```
+
+---
+
+# 🚨 Production Incident (Real-World Scenario)
+
+### ❌ Problem
+
+Application pods were stuck in **Pending state** in EKS.
+
+### 🔍 Root Cause
+
+* Node group reached **maximum capacity**
+* Insufficient CPU resources
+
+### 🛠️ Solution
+
+* Increased node group size
+* Implemented **Cluster Autoscaler**
+* Optimized resource requests/limits
+
+### ✅ Result
+
+* Issue resolved quickly
+* Improved cluster scalability
+* Prevented future outages
+
+---
+
+# 🧰 DevOps Toolchain
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,git,linux,bash,prometheus,grafana" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rajesh-210&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-210&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://facebook.com/Rajesh Chilukuri"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://instagram.com/rajesh.chilukuri.549"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:rajeshchilukuri210@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Rajesh-210\&icon=0\&color=0)](https://visitcount.itsvg.in)
