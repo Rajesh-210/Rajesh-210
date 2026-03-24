@@ -1,4 +1,4 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750291-2b7a0e1e-9b5e-4c30-9b8f-6cfa3b9f4b7c.gif)
 
 <h1 align="center">Hi 👋, I'm Rajesh Chilukuri from India 🇮🇳</h1>
 
