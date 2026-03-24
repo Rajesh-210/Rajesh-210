@@ -1,4 +1,4 @@
-![DevOps Banner](https://raw.githubusercontent.com/Rajesh-210/Rajesh-210/main/banner.png)
+![DevOps Banner](https://raw.githubusercontent.com/Rajesh-210/Rajesh-210/main/banner1.png)
 
 <h1 align="center">Hi 👋, I'm Rajesh Chilukuri from India 🇮🇳</h1>
 
