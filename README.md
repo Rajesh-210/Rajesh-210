@@ -1,4 +1,4 @@
-![DevOps Banner](sandbox:/mnt/data/a_2d_digital_illustration_features_a_custom_devops.png)
+![DevOps Banner](https://raw.githubusercontent.com/Rajesh-210/Rajesh-210/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Rajesh Chilukuri from India 🇮🇳</h1>
 
