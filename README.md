@@ -2,13 +2,34 @@
 
 <h1 align="center">Hi 👋, I'm Rajesh Chilukuri from India 🇮🇳</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Kubernetes+%7C+Docker+%7C+AWS;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;Terraform+%7C+Infrastructure+as+Code;Monitoring+%7C+Prometheus+%7C+Grafana;GitOps+%7C+ArgoCD" />
+</p>
+
 <h3 align="center">
 DevOps Engineer | Kubernetes | CI/CD | GitOps | Cloud Automation
 </h3>
 
-<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+---
 
-<p align="left">
+## 🏅 DevOps Stack Badges
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
+<img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform" />
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins" />
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-orange?style=for-the-badge&logo=argo" />
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-red?style=for-the-badge&logo=prometheus" />
+<img src="https://img.shields.io/badge/Grafana-Dashboard-orange?style=for-the-badge&logo=grafana" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Rajesh-210&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
@@ -187,4 +208,4 @@ Application pods were stuck in **Pending state** in EKS.
 
 ---
 
-[![](https)]()
+[![](https://visitcount.itsvg.in/api?id=Rajesh-210\&icon=0\&color=0)](https://visitcount.itsvg.in)
